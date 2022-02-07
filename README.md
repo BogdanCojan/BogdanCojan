@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bogdancojan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Bogdan.
+- 👀 I’m interested in Web/Mobile Development.
+- 🌱 I’m currently learning Ruby-on-Rails.
+- 💞️ I’m looking to collaborate on awesome projects.
+- 📫 How to reach me: ?
 
 <!---
 bogdancojan/bogdancojan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
